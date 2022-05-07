@@ -1,6 +1,6 @@
 ﻿# Wii Homebrew Guide
 ##### By [@mjfet](https://github.com/mjfet)
-##### Join our Discord @ https://discord.gg/kj74FMASJH
+##### Join WiiTech @ [https://discord.gg/kj74FMASJH](https://discord.gg/kj74FMASJH)
 
 
 ### Requirements
@@ -69,7 +69,7 @@ The first thing we will install is [Priiloader](https://hbb1.oscwii.org/hbb/prii
 ## The end.
 Tips for further on:
 
-- Use the same tutorial for extracting Priiloader to install other apps, like [BounceWii](https://wiibrew.org/wiki/BounceWii)! A great place for homebrew apps is [WiiBrew](wiibrew.org).
+- Use the same tutorial for extracting Priiloader to install other apps, like [BounceWii](https://oscwii.org/library/app/BounceWii)! A great place for homebrew apps is [WiiBrew](wiibrew.org) or [OSC](https://oscwii.org).
 - Joining the WiiTech Discord!
 <br>
 Goodbye!
