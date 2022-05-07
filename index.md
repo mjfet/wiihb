@@ -45,15 +45,25 @@ When installing BootMii, some Wiis (the early models) support BootMii as boot2 (
 ## Enter the world of Homebrew Apps
 Here is an example app structure
 `💾 SD Card:`
+<br>
 `┣ 📂 apps`
+<br>
 `┃ ┣ 📂Priiloader`
-`┃ ┃ ┣ 📄 boot.dol / boot.elf`
-`┃ ┃ ┣ 📄 icon.png`
-`┃ ┃ ┗ 📄 meta.xml`
+<br>
+`┃ ┃ ┣  boot.dol / boot.elf`
+<br>
+`┃ ┃ ┣  icon.png`
+<br>
+`┃ ┃ ┗  meta.xml`
+<br>
 `┃ ┗ 📂BounceWii`
-`┃ ┃ ┣ 📄 boot.dol / boot.elf`
-`┃ ┃ ┣ 📄 icon.png`
-`┃ ┃ ┗ 📄 meta.xml`
+<br>
+`┃ ┃ ┣  boot.dol / boot.elf`
+<br>
+`┃ ┃ ┣  icon.png`
+<br>
+`┃ ┃ ┗  meta.xml`
+<br>
 The first thing we will install is [Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip). Click the link and extract the folder inside `apps` inside the zip, to the `apps` folder on your SD Card. Put the SD card in your wii, and open the Homebrew Channel. Priiloader Installer should be there. Open the app and install Priiloader.
 
 ## The end.
