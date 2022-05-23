@@ -11,7 +11,7 @@
 
 
 ## Before wii start (See what I did there!)
-Check, is your SD Card reader functioning, and your SD Card formatted to FAT32. To check, right click on your drive and click properties. If not, [Click Here](fat32).
+Check, is your SD Card reader functioning, and your SD Card formatted to FAT32. To check, right click on your drive and click properties. If not, [Click Here](FAT32).
 
 
 ## Getting the files together.
